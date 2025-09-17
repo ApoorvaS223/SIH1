@@ -1,5 +1,3 @@
-# SIH1
-this is for sih prototype
 # Alumni Portal — Prototype
 
 This is a drop-in prototype built with React + Vite + Tailwindcss.
